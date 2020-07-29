@@ -8,6 +8,8 @@ repository link --> [Prerequisites to yolov4](https://github.com/GautamKataria/Y
 
 #### MOVE the obj.names into the data folder in the x64 folder in your darknet build.
 
+#### Also download Tesseract from here [Link to download tesseract](https://github.com/UB-Mannheim/tesseract/wiki)
+
 #### Dont forget to download tesseract and change the path in the python file to the location of tesseract.exe in your local machine.
 
 Download the weights from my google drive.  LINK --> [Weights here](https://drive.google.com/file/d/1Ld_sv4tDPUISv1rxYE3XjSKJQPvHCiyt/view?usp=sharing)
