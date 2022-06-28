@@ -14,7 +14,7 @@ repository link --> [Prerequisites to yolov4](https://github.com/GautamKataria/Y
 
 Download the weights from my google drive.  LINK --> [Weights here](https://drive.google.com/file/d/1Ld_sv4tDPUISv1rxYE3XjSKJQPvHCiyt/view?usp=sharing)
 
-The Yolo-v4 model is custom trained on Traffic signs from the Google open images dataset. LINK--> [here](https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&type=detection&c=%2Fm%2F01jfm_)
+The Yolo-v4 model is custom trained on license plates from the Google open images dataset. LINK--> [here](https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&type=detection&c=%2Fm%2F01jfm_)
 
 ## Working:-
 
