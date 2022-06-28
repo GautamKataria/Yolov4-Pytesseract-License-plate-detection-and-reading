@@ -18,7 +18,7 @@ The Yolo-v4 model is custom trained on Traffic signs from the Google open images
 
 ## Working:-
 
-##### Our yolov4 model is custom trained on traffic signs from the google open image dataset [Dataset for yolov4 training](https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&type=detection&c=%2Fm%2F01jfm_)
+##### Our yolov4 model is custom trained on license plates from the google open image dataset [Dataset for yolov4 training](https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&type=detection&c=%2Fm%2F01jfm_)
 ##### We use opencv to feed the video into the yolov4 model which feeds it to the custom trained yolov4 model which inturn gives us bounding boxes for traffic signs.
 ##### Each bounding box is then cropped from the frame and passed on. 
 ##### After some processing using opencv the images are passed onto the tesseract OCR which inturn outputs the license plate / number plate  number
